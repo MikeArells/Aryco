@@ -1,129 +1,71 @@
+.gradient-background {
+  background: linear-gradient(300deg, #a7d12c, #a7d12c, #2d6326);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
     position: relative;
   }
-  
-  header {    /*This is for the NAV background*/
-    background: #207345;
-    color: rgb(0, 0, 0);
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 30px;
-    align-items: center;
-    position: relative;
-    height: 50px;   /*Adjust the position of the logo*/
-  }
-  
-  /*---------------------------------nav-----------------------------------*/
-  /* Locations for the different parts of the sections in the NAV */
-  .nav-container{
-    position: absolute;
-    left: 30px;
-  }
-  
-  .logo-container{
-    
-    position: absolute;
-    left:50%; 
-    transform: translateX(-50%);
-  }
-  
-  nav ul {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-  }
-  
-  nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-  }
+
+/*----------------- NAV --------------------*/
   
   .logo {
-    height: 50px; /* o el tamaño que tú quieras */
-    width: auto;  /* mantiene la proporción original */
-    
-  }
-  
-  .nav-left,
-  .nav-right {
+    height: 50px; 
+    border-radius: 5px;
     display: flex;
-    align-items: center;
+    justify-content: center;
   }
+
+  
   
   /*-----------------------------HERO-----------------*/
   
-  .hero {
-    background: url('/Material/casalux.jpeg') center/cover no-repeat;
-    color: white;
-    padding: 100px 20px;
-    text-align: left;
-    font-size: 3rem;
-    font-weight: bold;
-    height: 400px;
-  } 
-  
-  .casaS{
-    position: absolute;
-    top: 390px;
+  .Casalux{
+    
+    width: 1300px;
   }
-  /*---------------------------END HERO ----------------*/
+  
+
+  /*----------------- PROPIEDADES ----------------*/
+
+  .card img {
+    width: 100%;
+    height: 250px; /* Ajusta la altura deseada */
+    object-fit: cover; /* Recorta la imagen manteniendo proporción */
+  }
+  
+  
+  /*--------------- FOOTER ---------------*/
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
   
   main {
-    padding: 40px 20px;
-    text-align: center;
+    flex: 1;
   }
-  
-  .dream {
-    font-size: 4rem;
-    text-align: left;
-    position: absolute;
-    top: 630px;
-  }
-
-  .propiedades {
-    display: flex;
-    gap: 10px;  
-    /* flex-wrap: wrap;
-    justify-content: left; */
-    top: 10px;
-  }
-  
-  .propiedad1 {
-    /* width: 30%; */
-    height: 200px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-  .propiedad2{
-    /* width: 30%; */
-    height: 200px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-  .propiedad3{
-    /* width: 30%; */
-    height: 200px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-
-  .propiedad img {
-    width: 100%;
-    height: 100%;
-  } 
   
   footer {
-    background: #207345;
-    color: white;
-    text-align: center;
-    padding: 15px;
+    width: 100%;
+    margin: 0%;
   }
