@@ -1,0 +1,249 @@
+.gradient-background {
+    background-color: #2d6326;
+  }
+  
+
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    position: relative;
+  }
+
+/*----------------- NAV --------------------*/
+  
+  .logo {
+    height: 50px; 
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-areas:
+      "header header"
+      "image info"
+      "description map"
+      "video contact";
+    
+    grid-template-columns:2fr 1fr; /* Primera columna más grande */
+    grid-template-rows: 1fr ; /* Cada fila ajusta su altura */
+    gap: 20px; /* Espacio entre elementos */
+  }
+  
+  /* Asignación de áreas */
+  .grid-item:nth-child(1) {
+    grid-area: header;
+  }
+  
+  .grid-item:nth-child(2) {
+    grid-area: image;
+  }
+  
+  .grid-item:nth-child(3) {
+    grid-area: info;
+  }
+  
+  .grid-item:nth-child(4) {
+    grid-area: description;
+  }
+  
+  .grid-item:nth-child(5) {
+    grid-area: map;
+  }
+  
+  .grid-item:nth-child(6) {
+    grid-area: video;
+  }
+  
+  .grid-item:nth-child(7) {
+    grid-area: contact;
+  }
+
+  *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  .info-box {
+    background-color: #e0e0e0;
+    padding:20px;
+    border-radius: 8px;
+    width: 400px;
+  }
+  
+  .galeria{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    width: 95%;
+    margin: auto;
+    grid-gap: 10px;
+    padding: 40px 0;
+    overflow: hidden;
+  }
+
+  .galeria > a{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  }
+  
+  .galeria img{
+    width: 100%;
+    vertical-align: top;
+    height: 200px;
+    object-fit: cover; /*para que las imagenes no pierdan la definicion*/
+  }
+
+  .galeria a:hover{
+    filter: blur(2px);
+  }
+
+  
+  .features-container {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .feature h6 {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .feature p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+
+  .light-box{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100vh;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     transform: scale(0); /* hace que desaparezca la imagen */
+  }
+  
+  .light-box img{
+    width: 65vw;
+    max-height: 80vh;
+    object-fit: cover;
+  }
+
+  .light-box:target{
+    transform: scale(1);
+  }
+
+  .close{
+    display: block;
+    position: fixed;
+    top: 40px;
+    right: 40px;
+    background: #851919;
+    color: #fff;
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+  }
+
+  .next{
+    display: block;
+    background: #851919;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+/* Descripcion */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.contact-form {
+  max-width: 400px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+}
+
+.contact-form h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.form-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+textarea {
+  height: 80px;
+  resize: none;
+  margin-bottom: 15px;
+}
+
+.btn-email {
+  width: 100%;
+  background-color: #499bf2;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.btn-whatsapp {
+  width: 100%;
+  background-color: #25d366;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-email:hover {
+  background-color: #2e00e6;
+}
+
+.btn-whatsapp:hover {
+  background-color: #1ebe57;
+}

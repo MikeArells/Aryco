@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Fracc. Ojocaliente 1, Aguascalientes, Ags",
+      "images": ["Fracc. Ojocaliente 1/ojo.jpg", "Fracc. Ojocaliente 1/ojo1.jpg","Fracc. Ojocaliente 1/ojo2.jpg","Fracc. Ojocaliente 1/ojo3.jpg","Fracc. Ojocaliente 1/ojo4.jpg","Fracc. Ojocaliente 1/ojo5.jpg"],
+      
+      "tipoTransaction": "EN VENTA",
+      "price": "$1,550,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "120 mts2 (6 x 20)",
+      "construction": "153 mts2",
+      "Entrega": "inmediata",
+      "servicios": "Agua · Drenaje · Internet · Luz · Gas",
+      
+      "recamaras": 3,
+      "banos": 2,
+      "carros": 2,
+
+      "description": "De $1,800,000 a $1,550,000.  <br>Ubicación: Calle El Refugio #245, entre Tercer Anillo y Alameda, Aguascalientes. <br><br>✨ Características: <br>✅ Terreno: 6x20 m <br>✅ Construcción: 153m2 <br>✅ 2 pisos <br>✅ 3 habitaciones  Espaciosas y bien iluminadas <br>✅ 2 baños completos <br>✅ 2 patios de servicio  Ideal para área de lavado y almacenamiento <br>✅ Balcon <br><br>Se acepta crédito Infonavit, fovissste",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.1614471595044!2d-102.25651132653523!3d21.88985795765081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e21230bb1b%3A0xda2b803f11140b17!2sEl%20Refugio%20245%2C%20Ojocaliente%20I%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763529692359!5m2!1ses!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7549695828349275399"
+    },
+    {
+      "id": 2,
+      "title": "Fracc. Haciendas de Aguascalientes, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "1,550,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "120 mts2 (6 x 20)",
+      "construction": "153 mts2",
+      "Entrega": "inmediata",
+      "servicios": "Agua · Drenaje · Internet · Luz · Gas",
+
+      "recamaras": 3,
+      "banos": 2,
+      "carros": 2,
+
+      "description": "",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14808.90773594804!2d-102.26811483367679!3d21.887335383536104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e366610a1f%3A0xf2a5e9844446115c!2sHacienda%20Cotorina%20114%2C%20Haciendas%20de%20Aguascalientes%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763239134338!5m2!1ses!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7567430472599457044"
+    },
+    {
+      "id": 3,
+      "title": "Fracc. Casa blanca, Aguascalientes, Ags",
+      "price": "1,800,000 MXN",
+      "rooms": 2,
+      "bathrooms": 1,
+      "images": ["prop3.jpg", "prop4.jpg"],
+    
+      "description": "",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14808.90773594804!2d-102.26811483367679!3d21.887335383536104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e366610a1f%3A0xf2a5e9844446115c!2sHacienda%20Cotorina%20114%2C%20Haciendas%20de%20Aguascalientes%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763239134338!5m2!1ses!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7566410775183510805" 
+    },
+
+    {
+      "id": 4,
+      "title": "Fracc. Santa Monica, Aguascalientes",
+      "price": "1,800,000 MXN",
+      "rooms": 2,
+      "bathrooms": 1,
+      "description": "Excelente ubicación, ideal para inversión.",
+      "images": ["prop3.jpg", "prop4.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Fracc. Santa Monica, Aguascalientes",
+      "price": "1,800,000 MXN",
+      "rooms": 2,
+      "bathrooms": 1,
+      "description": "Excelente ubicación, ideal para inversión.",
+      "images": ["prop3.jpg", "prop4.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "Fracc. Santa Monica, Aguascalientes",
+      "price": "1,800,000 MXN",
+      "rooms": 2,
+      "bathrooms": 1,
+      "description": "Excelente ubicación, ideal para inversión.",
+      "images": ["prop3.jpg", "prop4.jpg"]
+    },
+    {
+      "id": 7,
+      "title": "Fracc. Santa Monica, Aguascalientes",
+      "price": "1,800,000 MXN",
+      "rooms": 2,
+      "bathrooms": 1,
+      "description": "Excelente ubicación, ideal para inversión.",
+      "images": ["prop3.jpg", "prop4.jpg"]
+    }
+  ]
