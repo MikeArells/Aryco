@@ -7,10 +7,10 @@
       "tipoTransaction": "EN VENTA",
       "price": "$1,550,000 MXN",
       "TipoProperty": "Casa",
-      "ground": "120 mts2 (6 x 20)",
-      "construction": "153 mts2",
+      "ground": "120 m² (6 x 20)",
+      "construction": "153 m²",
       "Entrega": "inmediata",
-      "servicios": "Agua · Drenaje · Internet · Luz · Gas",
+      "servicios": "Agua · Drenaje · Luz",
       
       "recamaras": 3,
       "banos": 2,
@@ -26,68 +26,167 @@
       "images": ["", "", "", "", "", ""],
 
       "tipoTransaction": "EN VENTA",
-      "price": "1,550,000 MXN",
+      "price": "1,500,000 MXN",
       "TipoProperty": "Casa",
-      "ground": "120 mts2 (6 x 20)",
-      "construction": "153 mts2",
-      "Entrega": "inmediata",
-      "servicios": "Agua · Drenaje · Internet · Luz · Gas",
+      "ground": "90 m²",
+      "construction": " m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
 
-      "recamaras": 3,
+      "recamaras": 5,
       "banos": 2,
-      "carros": 2,
+      "carros": 1,
 
-      "description": "",
+      "description": "📍 Ubicación: Haciendas de Aguascalientes<br>📐 Terreno: 90 m²<br>🚗 Cochera: Para 1 auto<br>💰 Precio de contado: $1,500,000<br>📈 Valor de avalúo: $2,200,000<br><br>Distribución:<br>🔹 Planta baja:<br>1 recámara<br>1 baño completo<br><br>🔹 Planta alta:<br>4 recámaras (3 con clóset)<br>1 baño completo<br>Balcón amplio<br><br>✅ Ideal para familias grandes o como inversión<br>✅ Zona tranquila y bien conectada<br>✅ ¡$700,000 por debajo del avalúo!<br>📞 Contáctame para más información o agendar tu visita.<br>📲 ¡No dejes pasar esta oportunidad!",
       "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14808.90773594804!2d-102.26811483367679!3d21.887335383536104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e366610a1f%3A0xf2a5e9844446115c!2sHacienda%20Cotorina%20114%2C%20Haciendas%20de%20Aguascalientes%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763239134338!5m2!1ses!2smx",
       "video": "https://www.tiktok.com/@mikearells/video/7567430472599457044"
     },
     {
       "id": 3,
       "title": "Fracc. Casa blanca, Aguascalientes, Ags",
-      "price": "1,800,000 MXN",
-      "rooms": 2,
-      "bathrooms": 1,
-      "images": ["prop3.jpg", "prop4.jpg"],
-    
-      "description": "",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14808.90773594804!2d-102.26811483367679!3d21.887335383536104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e366610a1f%3A0xf2a5e9844446115c!2sHacienda%20Cotorina%20114%2C%20Haciendas%20de%20Aguascalientes%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763239134338!5m2!1ses!2smx",
-      "video": "https://www.tiktok.com/@mikearells/video/7566410775183510805" 
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$1,700,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "m²",
+      "construction": " m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 2,
+      "banos": 1,
+      "carros": 1,
+
+      "description": "¡Ideal para parejas, familias pequeñas o como inversión!<br><br>📍 Ubicación tranquila y con excelente acceso a servicios.<br><br>🔹 1 planta<br>🔹 2 recámaras cómodas<br>🔹 1 baño completo<br>🔹 Cochera para 1 auto<br>🔹 Amplio patio trasero<br>🔹 Área de lavado techada<br>🔹Solo contado, las escrituras se entregan en 2026<br><br>💬 Lista para habitar o remodelar a tu gusto. ¡Gran oportunidad! ",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3703.020785108431!2d-102.2745727252631!3d21.8567339588279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ede92d50e9f5%3A0x653ed1f3a92726!2sVivero%20del%20Roc%C3%ADo%20108%2C%20Casa%20Blanca%2C%2020297%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1763925560155!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7566410775183510805"
     },
 
     {
       "id": 4,
-      "title": "Fracc. Santa Monica, Aguascalientes",
-      "price": "1,800,000 MXN",
-      "rooms": 2,
-      "bathrooms": 1,
-      "description": "Excelente ubicación, ideal para inversión.",
-      "images": ["prop3.jpg", "prop4.jpg"]
+      "title": "Rancho las borregas, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$19,000,000 MXN",
+      "TipoProperty": "Rancho",
+      "ground": "172,479 m² (más de 17 hectáreas)",
+      "construction": "689.82 m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 4,
+      "banos": 3,
+      "carros": 5,
+
+      "description": "🐑 Rancho Las Borregas en Venta – Sierra Fría, Aguascalientes<br>📍 Cerca de La Congoja<br><br>💰 Precio a tratar – Ideal para descanso, recreación o proyecto ganadero<br><br>🌿 Descripción General:<br>Descubre el lugar perfecto para desconectar de la rutina y reconectar con la naturaleza. Rancho Las Borregas es una joya ubicada en la Sierra Fría, a pocos minutos de La Congoja, ideal tanto para quienes buscan tranquilidad como para emprender un proyecto productivo o turístico.<br><br>📐 Características Principales:<br>Superficie total: 172,479 m² (más de 17 hectáreas)<br>Construcción: 689.82 m²<br>Infraestructura ganadera:<br>Corral para borregos<br>Corral para gallinas<br><br>Ideal para actividades:<br>Senderismo<br>Paseos a caballo<br>Pesca<br>Eventos sociales al aire libre<br><br>🏡 Ventajas:<br>✅ Total armonía con la naturaleza<br>✅ Potencial para uso recreativo, turístico o ganadero<br>✅ Espacios amplios y listos para aprovecharse<br>✅ Aire puro y vistas espectaculares en plena Sierra Fría",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d140542.4841286852!2d-102.56582291798041!3d22.233353729800513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86827642da7cd755%3A0xf027478c4c69fdc1!2s20520%20La%20Congoja%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1763926654017!5m2!1ses-419!2smx",
+      "video": ""
     },
     {
       "id": 5,
-      "title": "Fracc. Santa Monica, Aguascalientes",
-      "price": "1,800,000 MXN",
-      "rooms": 2,
-      "bathrooms": 1,
-      "description": "Excelente ubicación, ideal para inversión.",
-      "images": ["prop3.jpg", "prop4.jpg"]
+      "title": "Fracc. Jardines de la Concepción II, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$6,400,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "330 m²",
+      "construction": "342 m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 4,
+      "banos": 3.5,
+      "carros": 2,
+
+      "description": "🏡 Casa en Venta - Zona Norte de Aguascalientes (Jardines de la Concepción II)<br>📍 Cordillera de los Alpes Sur, Jardines de la Concepción II, C.P. 20120, Aguascalientes, Ags.<br><br>💰 Precio de venta: $6,400,000 MXN<br><br>Vive en una de las zonas más exclusivas y con mayor plusvalía de Aguascalientes, cerca de importantes vialidades como Av. Colosio y Zaragoza. Ideal para familias que buscan espacio, comodidad y ubicación privilegiada.<br><br>✨ Características principales:<br><br>✅Terreno: 330 m²<br>✅Construcción: 342 m²<br>✅2 plantas<br>✅4 amplias recámaras<br>✅3 baños completos + 1 medio baño<br>✅2 salas para mayor confort<br>✅Cocina equipada con excelente distribución<br>✅Terraza exterior ideal para reuniones<br>✅Amplio jardín<br>✅Cochera techada para 2 autos<br><br>📍 Zona Norte - Jardines de la Concepción II<br>Una zona residencial tranquila, segura y cercana a centros comerciales, escuelas y servicios. ",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14804.496670907783!2d-102.31244861652303!3d21.929777505045333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ef00ad669ee3%3A0xc52a6edca88daa58!2sJardines%20de%20la%20Concepci%C3%B3n%20II%2C%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1763930662462!5m2!1ses-419!2smx",
+      "video": ""
     },
     {
       "id": 6,
-      "title": "Fracc. Santa Monica, Aguascalientes",
-      "price": "1,800,000 MXN",
-      "rooms": 2,
-      "bathrooms": 1,
-      "description": "Excelente ubicación, ideal para inversión.",
-      "images": ["prop3.jpg", "prop4.jpg"]
+      "title": "Fracc. Santa Bárbara, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$3,600,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "m²",
+      "construction": " m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 3,
+      "banos": 3,
+      "carros": 2,
+
+      "description": "🏡 Casa en venta – Poniente de Aguascalientes (Santa Bárbara)<br>💰 $3,600,000<br><br>📏 3 niveles en coto con vigilancia 24/7, acceso controlado, gimnasio, áreas verdes, sala de co-work, juegos infantiles y asadores.<br><br>Distribución:<br>✅ PB: Sala, comedor, cocina con barra de granito, área de lavado, medio baño<br>✅ 2ª planta: 3 recámaras (2 con clóset comparten baño), sala de TV, principal con walk-in clóset y baño<br>✅ 3ª planta: Roof garden con asador y 1/2 baño<br><br>📩 Más info por privado. ¡Lista para Escriturar!",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.7743281068306!2d-102.33283642526281!3d21.866238758489544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ed4bd0e865b9%3A0x922b9f312f17e2d4!2sSanta%20B%C3%A1rbara!5e0!3m2!1ses-419!2smx!4v1763929483206!5m2!1ses-419!2smx",
+      "video": ""
     },
     {
       "id": 7,
-      "title": "Fracc. Santa Monica, Aguascalientes",
-      "price": "1,800,000 MXN",
-      "rooms": 2,
-      "bathrooms": 1,
-      "description": "Excelente ubicación, ideal para inversión.",
-      "images": ["prop3.jpg", "prop4.jpg"]
+      "title": "Fracc. El Dorado, 1ra Secc, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN RENTA",
+      "price": "$25,000 MXN c/uno",
+      "TipoProperty": "Casa",
+      "ground": "160 m² (8 x 20 m)",
+      "construction": "105 m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 4,
+      "banos": 2,
+      "carros": 3,
+
+      "description": "🏥 Consultorios en renta– Zona Dr. G. Ramírez Valdez, Aguascalientes.<br><br>¡Listos para operar y ubicados en zona de uso mixto!<br>📍 Dirección: Guillermo Ramírez Valdez #112<br>📐 Terreno: 160 m² (8 x 20 m)<br>🏗️ Construcción: 105 m²<br>🔹 Distribución:<br><br>➡️Área de recepción o sala de espera<br>➡️Espacios funcionales para atención médica.<br>➡️Estacionamiento de 3 x 11 m<br><br>🔧 Equipamiento:<br><br>✅ Instalaciones para agua fría y caliente<br>✅ Conexiones listas para consultorios médicos<br>✅ Cámaras de seguridad<br>✅ Calentador solar<br><br>💧 Agua: $429 (tarifa mixta)<br>📄 Uso de suelo: medico.<br>💰 Precio: $25,000<br>✅ Ideal para médicos, terapeutas o profesionales de la salud que buscan establecerse en una zona accesible y con potencial de crecimiento.",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.9165159059708!2d-102.306543025263!3d21.860755658684795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec2d0610ba89%3A0xcc3451912fa5291a!2sDr.%20G.%20Ram%C3%ADrez%20Valdez%2C%20El%20Dorado%201ra%20Secc%2C%2020235%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1763930274963!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7563364291609480468"
+    },
+    {
+      "id": 8,
+      "title": "Cañada Honda, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$4,200 MXN por m²",
+      "TipoProperty": "Terreno",
+      "ground": "Lote 1: 112.98 m² y Lote 2: 107.20 m²",
+      "construction": "0 m²",
+      "Entrega": "Inmediata",
+      "servicios": "",
+
+      "recamaras": 0,
+      "banos": 0,
+      "carros": 0,
+
+      "description": "📍 ¡Venta de terrenos en Cañada Honda, Aguascalientes!<br><br>Video: https://vt.tiktok.com/ZSDa61Pem/<br><br>🚜 Vendo 2 lotes sobre avenida principal con camellón<br>📌 Ubicación: Avenida Profra. Esperanza Mateos de Medina, muy cerca de la plaza principal. <br><br>📐 Superficies:<br>Lote 1: 112.98 m²<br>Lote 2: 107.20 m²<br>✅ Ambos con 6 metros de frente<br><br>💰 Precio: $4,200 por m²<br>📞 Informes: 4492335540 ó 449 999 2161 <br>🔹 Zona de alta visibilidad y excelente flujo vehicular<br>🔹 Ideal para comercio, vivienda o inversión a futuro",
+      "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3699.2610340368997!2d-102.198512!3d22.001307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDAwJzA0LjciTiAxMDLCsDExJzU0LjYiVw!5e0!3m2!1ses-419!2smx!4v1763930874304!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7552198454332624146"
+    },
+    {
+      "id": 9,
+      "title": "Gral. Emiliano Zapata, Aguascalientes",
+      "images": ["", "", "", "", "", ""],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$3,650,000 MXN",
+      "TipoProperty": "Edificio",
+      "ground": "80 m²",
+      "construction": "0 m²",
+      "Entrega": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 7,
+      "banos": 7,
+      "carros": 1,
+
+      "description": "📍 ¡Venta de terrenos en Cañada Honda, Aguascalientes!<br><br>Video: https://vt.tiktok.com/ZSDa61Pem/<br><br>🚜 Vendo 2 lotes sobre avenida principal con camellón<br>📌 Ubicación: Avenida Profra. Esperanza Mateos de Medina, muy cerca de la plaza principal. <br><br>📐 Superficies:<br>Lote 1: 112.98 m²<br>Lote 2: 107.20 m²<br>✅ Ambos con 6 metros de frente<br><br>💰 Precio: $4,200 por m²<br>📞 Informes: 4492335540 ó 449 999 2161 <br>🔹 Zona de alta visibilidad y excelente flujo vehicular<br>🔹 Ideal para comercio, vivienda o inversión a futuro",
+      "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3699.2610340368997!2d-102.198512!3d22.001307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDAwJzA0LjciTiAxMDLCsDExJzU0LjYiVw!5e0!3m2!1ses-419!2smx!4v1763930874304!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7552198454332624146"
     }
   ]
