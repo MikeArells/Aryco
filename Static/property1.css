@@ -247,3 +247,29 @@ textarea {
 .btn-whatsapp:hover {
   background-color: #1ebe57;
 }
+
+@media screen and (max-width: 767px) {
+    .grid-container {
+    display: grid;
+    grid-template-areas:
+      "header"
+      "image"
+      "info"
+      "description"
+      "map"
+      "video"
+      "contact";
+    
+    grid-template-columns:1fr; /* Primera columna más grande */
+    grid-template-rows: 1fr ; /* Cada fila ajusta su altura */
+    gap: 20px; /* Espacio entre elementos */
+    }
+
+    .galeria{
+      width: 70%;
+    }
+
+    .info-box {
+    width: 90%;
+    }
+  }

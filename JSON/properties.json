@@ -23,7 +23,7 @@
     {
       "id": 2,
       "title": "Fracc. Haciendas de Aguascalientes, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["Fracc. Haciendas de Ags/haciendas.jpg", "Fracc. Haciendas de Ags/haciendas1.jpg", "Fracc. Haciendas de Ags/haciendas2.jpg", "Fracc. Haciendas de Ags/haciendas3.jpg", "Fracc. Haciendas de Ags/haciendas4.jpg", "Fracc. Haciendas de Ags/haciendas5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "1,500,000 MXN",
@@ -44,7 +44,7 @@
     {
       "id": 3,
       "title": "Fracc. Casa blanca, Aguascalientes, Ags",
-      "images": ["", "", "", "", "", ""],
+      "images": ["Fracc.CasaBlanca/CasaB.jpg", "Fracc.CasaBlanca/CasaB1.jpg", "Fracc.CasaBlanca/CasaB2.jpg", "Fracc.CasaBlanca/CasaB3.jpg", "Fracc.CasaBlanca/CasaB4.jpg", "Fracc.CasaBlanca/CasaB5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "$1,700,000 MXN",
@@ -66,7 +66,7 @@
     {
       "id": 4,
       "title": "Rancho las borregas, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["RanchoLasBorregas/RanchoBorregas.jpg", "RanchoLasBorregas/RanchoBorregas1.jpg", "RanchoLasBorregas/RanchoBorregas2.jpg", "RanchoLasBorregas/RanchoBorregas3.jpg", "RanchoLasBorregas/RanchoBorregas4.jpg", "RanchoLasBorregas/RanchoBorregas5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "$19,000,000 MXN",
@@ -87,7 +87,7 @@
     {
       "id": 5,
       "title": "Fracc. Jardines de la Concepción II, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["JardinesDeLaConcep/JardinesConcep.jpg", "JardinesDeLaConcep/JardinesConcep1.jpg", "JardinesDeLaConcep/JardinesConcep2.jpg", "JardinesDeLaConcep/JardinesConcep3.jpg", "JardinesDeLaConcep/JardinesConcep4.jpg", "JardinesDeLaConcep/JardinesConcep5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "$6,400,000 MXN",
@@ -108,7 +108,7 @@
     {
       "id": 6,
       "title": "Fracc. Santa Bárbara, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["SantaBarbara/SantaBarbara.jpg", "SantaBarbara/SantaBarbara1.jpg", "SantaBarbara/SantaBarbara2.jpg", "SantaBarbara/SantaBarbara3.jpg", "SantaBarbara/SantaBarbara4.jpg", "SantaBarbara/SantaBarbara5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "$3,600,000 MXN",
@@ -129,7 +129,7 @@
     {
       "id": 7,
       "title": "Fracc. El Dorado, 1ra Secc, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["ConsultDorado/ConsulDorado.jpg", "ConsultDorado/ConsulDorado1.jpg", "ConsultDorado/ConsulDorado2.jpg", "ConsultDorado/ConsulDorado3.jpg", "ConsultDorado/ConsulDorado4.jpg"],
 
       "tipoTransaction": "EN RENTA",
       "price": "$25,000 MXN c/uno",
@@ -150,7 +150,7 @@
     {
       "id": 8,
       "title": "Cañada Honda, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "images": ["CanadaHonda/CanadaHonda.jpg", "CanadaHonda/CanadaHonda1.jpg", "CanadaHonda/CanadaHonda2.jpg", "CanadaHonda/CanadaHonda3.jpg", "CanadaHonda/CanadaHonda4.jpg", "CanadaHonda/CanadaHonda5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "$4,200 MXN por m²",

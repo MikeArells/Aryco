@@ -70,6 +70,18 @@ body {
   }
   
   footer {
+    position: relative;
+  }
+
+  .footer-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap; /* evita que salte de línea */
+  }
+
+
+  /* footer {
     width: 100%;
     margin: 0%;
-  }
+  } */
