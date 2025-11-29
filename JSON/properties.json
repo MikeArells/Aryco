@@ -86,24 +86,24 @@
     },
     {
       "id": 5,
-      "title": "Fracc. Jardines de la Concepción II, Aguascalientes",
-      "images": ["JardinesDeLaConcep/JardinesConcep.jpg", "JardinesDeLaConcep/JardinesConcep1.jpg", "JardinesDeLaConcep/JardinesConcep2.jpg", "JardinesDeLaConcep/JardinesConcep3.jpg", "JardinesDeLaConcep/JardinesConcep4.jpg", "JardinesDeLaConcep/JardinesConcep5.jpg"],
+      "title": "Calle Gral. Emiliano Zapata, barrio de Guadalupe",
+      "images": ["EdificioZapata/EdificioZapata.jpg", "EdificioZapata/EdificioZapata2.jpg", "EdificioZapata/EdificioZapata3.jpg", "EdificioZapata/EdificioZapata6.jpg", "EdificioZapata/EdificioZapata7.jpg", "EdificioZapata/EdificioZapata14.jpg"],
 
       "tipoTransaction": "EN VENTA",
-      "price": "$6,400,000 MXN",
-      "TipoProperty": "Casa",
-      "ground": "330 m²",
-      "construction": "342 m²",
+      "price": "$3,650,000 MXN",
+      "TipoProperty": "Edificio",
+      "ground": "80 m²",
+      "construction": "200 m²",
       "Entrega": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
-      "recamaras": 4,
-      "banos": 3.5,
-      "carros": 2,
+      "recamaras": 7,
+      "banos": 7,
+      "carros": 1,
 
-      "description": "🏡 Casa en Venta - Zona Norte de Aguascalientes (Jardines de la Concepción II)<br>📍 Cordillera de los Alpes Sur, Jardines de la Concepción II, C.P. 20120, Aguascalientes, Ags.<br><br>💰 Precio de venta: $6,400,000 MXN<br><br>Vive en una de las zonas más exclusivas y con mayor plusvalía de Aguascalientes, cerca de importantes vialidades como Av. Colosio y Zaragoza. Ideal para familias que buscan espacio, comodidad y ubicación privilegiada.<br><br>✨ Características principales:<br><br>✅Terreno: 330 m²<br>✅Construcción: 342 m²<br>✅2 plantas<br>✅4 amplias recámaras<br>✅3 baños completos + 1 medio baño<br>✅2 salas para mayor confort<br>✅Cocina equipada con excelente distribución<br>✅Terraza exterior ideal para reuniones<br>✅Amplio jardín<br>✅Cochera techada para 2 autos<br><br>📍 Zona Norte - Jardines de la Concepción II<br>Una zona residencial tranquila, segura y cercana a centros comerciales, escuelas y servicios. ",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14804.496670907783!2d-102.31244861652303!3d21.929777505045333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ef00ad669ee3%3A0xc52a6edca88daa58!2sJardines%20de%20la%20Concepci%C3%B3n%20II%2C%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1763930662462!5m2!1ses-419!2smx",
-      "video": ""
+      "description": "En Venta Edificio de departamentos <br><br>¡Excelente oportunidad de inversión en el centro, a solo 3 cuadras del Parián y 2 de la catedral!<br><br>VIDEO: https://vt.tiktok.com/ZSDqUP24t/<br><br>📐 Propiedad de 3 niveles con 7 departamentos tipo loft (estudio)<br>Cada departamento cuenta con:<br><br>➡️Cocineta<br>➡️Clóset<br>➡️Baño completo<br>➡️Algunos tienen balcón y/o terraza.<br>➡️área común (sala).<br><br>🔒 Acceso principal con cerradura electrónica digital<br><br>📈 La mayoría de los departamentos ya están rentados, generando ingresos desde el primer día.<br><br>📄 Documentación en regla<br><br>✅ Ideal para inversionistas que buscan rentabilidad en una zona céntrica,  y de alta demanda, con retorno seguro.",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.3653262635353!2d-102.30296942526233!3d21.882003557928165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ee62abd490c3%3A0x54cfc3622c037ab6!2sGral.%20Emiliano%20Zapata%20122%2C%20Zona%20Centro%2C%2020000%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1764436401904!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7570477530424085781"
     },
     {
       "id": 6,

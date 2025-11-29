@@ -42,8 +42,8 @@ body {
   /*-----------------------------HERO-----------------*/
   
   .Casalux{
-    
     width: 1300px;
+    object-fit: cover;
   }
   
 
@@ -80,8 +80,20 @@ body {
     white-space: nowrap; /* evita que salte de línea */
   }
 
+  @media screen and (min-width: 1300px){
 
-  /* footer {
-    width: 100%;
-    margin: 0%;
-  } */
+      .Casalux{
+        width: 1700px;
+        height: 600px;
+      }
+    
+  }
+
+  @media screen and (min-width: 1680px){
+
+      .Casalux{
+        width: 1900px;
+        height: 900px;
+      }
+    
+  }
