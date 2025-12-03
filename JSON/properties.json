@@ -107,24 +107,24 @@
     },
     {
       "id": 6,
-      "title": "Fracc. Santa Bárbara, Aguascalientes",
-      "images": ["SantaBarbara/SantaBarbara.jpg", "SantaBarbara/SantaBarbara1.jpg", "SantaBarbara/SantaBarbara2.jpg", "SantaBarbara/SantaBarbara3.jpg", "SantaBarbara/SantaBarbara4.jpg", "SantaBarbara/SantaBarbara5.jpg"],
+      "title": "Fracc. Lomas del chapulin, Ags",
+      "images": ["LomasDelChapulin/LomasDelChapulin.jpg", "LomasDelChapulin/LomasDelChapulin1.jpg", "LomasDelChapulin/LomasDelChapulin2.jpg"],
 
       "tipoTransaction": "EN VENTA",
-      "price": "$3,600,000 MXN",
-      "TipoProperty": "Casa",
-      "ground": "m²",
-      "construction": " m²",
+      "price": "$650,000 MXN",
+      "TipoProperty": "Departamento",
+      "ground": "57.85 m²",
+      "construction": "57.85 m²",
       "Entrega": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
-      "recamaras": 3,
-      "banos": 3,
-      "carros": 2,
+      "recamaras": 2,
+      "banos": 1,
+      "carros": 1,
 
-      "description": "🏡 Casa en venta – Poniente de Aguascalientes (Santa Bárbara)<br>💰 $3,600,000<br><br>📏 3 niveles en coto con vigilancia 24/7, acceso controlado, gimnasio, áreas verdes, sala de co-work, juegos infantiles y asadores.<br><br>Distribución:<br>✅ PB: Sala, comedor, cocina con barra de granito, área de lavado, medio baño<br>✅ 2ª planta: 3 recámaras (2 con clóset comparten baño), sala de TV, principal con walk-in clóset y baño<br>✅ 3ª planta: Roof garden con asador y 1/2 baño<br><br>📩 Más info por privado. ¡Lista para Escriturar!",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.7743281068306!2d-102.33283642526281!3d21.866238758489544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ed4bd0e865b9%3A0x922b9f312f17e2d4!2sSanta%20B%C3%A1rbara!5e0!3m2!1ses-419!2smx!4v1763929483206!5m2!1ses-419!2smx",
-      "video": ""
+      "description": "🏡 ¡Aprovecha!<br><br>Departamentos Nuevos al Oriente de la Ciudad, cerca de la Línea Verde<br><br>✨ Vive en una zona con excelente conectividad y plusvalía. Ideal para familias o inversión.<br>📐 Superficie construida: 57.85 m²<br>🛏️ 2 recámaras amplias<br>🛁 1 baño completo<br>🚗 Cajón de estacionamiento incluido<br>✅ Tramitamos tu crédito INFONAVIT sin costo<br><br>📍Ubicación estratégica, cerca de transporte, escuelas y comercios.<br><br>📞 ¡Contáctanos hoy mismo y asegura tu nuevo hogar!",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7405.90667705895!2d-102.25074780974558!3d21.85933547750024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f20e52bddca1%3A0xb1af163d39fd5f8a!2sLomas%20del%20Chapul%C3%ADn%2C%2020263%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1764734860427!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7567894521602673940"
     },
     {
       "id": 7,
