@@ -170,23 +170,23 @@
     },
     {
       "id": 9,
-      "title": "Gral. Emiliano Zapata, Aguascalientes",
-      "images": ["", "", "", "", "", ""],
+      "title": "Av. Barlovento, Aguascalientes",
+      "images": ["Barlovento/Barlovento.jpg", "Barlovento/Barlovento1.jpg", "Barlovento/Barlovento2.jpg", "Barlovento/Barlovento3.jpg", "Barlovento/Barlovento4.jpg", "Barlovento/Barlovento5.jpg"],
 
       "tipoTransaction": "EN VENTA",
-      "price": "$3,650,000 MXN",
-      "TipoProperty": "Edificio",
-      "ground": "80 m²",
-      "construction": "0 m²",
+      "price": "$14,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": " m²",
+      "construction": " m²",
       "Entrega": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
-      "recamaras": 7,
-      "banos": 7,
-      "carros": 1,
+      "recamaras": 4,
+      "banos": 3.5,
+      "carros": 2,
 
-      "description": "📍 ¡Venta de terrenos en Cañada Honda, Aguascalientes!<br><br>Video: https://vt.tiktok.com/ZSDa61Pem/<br><br>🚜 Vendo 2 lotes sobre avenida principal con camellón<br>📌 Ubicación: Avenida Profra. Esperanza Mateos de Medina, muy cerca de la plaza principal. <br><br>📐 Superficies:<br>Lote 1: 112.98 m²<br>Lote 2: 107.20 m²<br>✅ Ambos con 6 metros de frente<br><br>💰 Precio: $4,200 por m²<br>📞 Informes: 4492335540 ó 449 999 2161 <br>🔹 Zona de alta visibilidad y excelente flujo vehicular<br>🔹 Ideal para comercio, vivienda o inversión a futuro",
-      "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3699.2610340368997!2d-102.198512!3d22.001307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDAwJzA0LjciTiAxMDLCsDExJzU0LjYiVw!5e0!3m2!1ses-419!2smx!4v1763930874304!5m2!1ses-419!2smx",
-      "video": "https://www.tiktok.com/@mikearells/video/7552198454332624146"
+      "description": "🏡✨ Casa en Renta en Barlovento✨🏡<br><br>Descubre tu nuevo hogar en una de las zonas más tranquilas y exclusivas de la ciudad.<br><br>✅ 2 plantas<br>✅ 4 cuartos (todos con baño propio)<br>✅ 3 recámaras principales<br>✅ 1 cuarto adaptado como sala de TV<br>✅ Baño de visitas<br>✅ Espacios amplios y funcionales<br><br>💰 Renta: $14,000 mensuales<br><br>Ideal para familias que buscan comodidad, privacidad y un entorno seguro.<br><br>📍 Ubicada cerca de Santa Mónica, con excelente conectividad y cerca de servicios esenciales.",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7022.78481743203!2d-102.32013974819694!3d21.833750050268037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec5cd1109425%3A0xdcb439c2d65164dd!2sBARLOVENTO!5e0!3m2!1ses-419!2smx!4v1764737195681!5m2!1ses-419!2smx",
+      "video": ""
     }
   ]
