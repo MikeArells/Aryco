@@ -93,7 +93,7 @@
   .galeria img{
     width: 100%;
     vertical-align: top;
-    height: 200px;
+    height: 230px;
     object-fit: cover; /*para que las imagenes no pierdan la definicion*/
   }
 
@@ -173,6 +173,7 @@
     line-height: 30px;
     text-decoration: none;
     text-align: center;
+    align-content: center;
   }
 
 /* Descripcion */

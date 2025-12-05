@@ -91,7 +91,7 @@ fetch('JSON/properties.json')
        //Imagenes 
     const gallery = document.querySelector('.galeria');
     gallery.innerHTML = property.images
-      .map(img => `<a href="#image"><img src="Material/${img}" alt=""></a>`)
+      .map((img, index) => `<a href="#image${index + 1}"><img src="Material/${img}" alt=""></a>`)
       .join('');
 
       // Generar lightbox dinámico
