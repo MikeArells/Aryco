@@ -1,7 +1,8 @@
 [
     {
       "id": 1,
-      "title": "Fracc. Ojocaliente 1, Aguascalientes, Ags",
+      "titleName": "VENTA DE CASA EN OJOCALIENTE 1",
+      "subtitle": "Fracc. Ojocaliente 1, Aguascalientes, Ags",
       "images": ["Fracc. Ojocaliente 1/ojo.jpg", "Fracc. Ojocaliente 1/ojo1.jpg","Fracc. Ojocaliente 1/ojo2.jpg","Fracc. Ojocaliente 1/ojo3.jpg","Fracc. Ojocaliente 1/ojo4.jpg","Fracc. Ojocaliente 1/ojo5.jpg"],
       
       "tipoTransaction": "EN VENTA",
@@ -9,7 +10,8 @@
       "TipoProperty": "Casa",
       "ground": "120 m² (6 x 20)",
       "construction": "153 m²",
-      "Entrega": "inmediata",
+      "ocupation": "inmediata",
+      "payment": "Contado y créditos.",
       "servicios": "Agua · Drenaje · Luz",
       
       "recamaras": 3,
@@ -22,15 +24,16 @@
     },
     {
       "id": 2,
-      "title": "Fracc. Haciendas de Aguascalientes, Aguascalientes",
+      "titleName": "Fracc. Haciendas de Aguascalientes, Aguascalientes",
       "images": ["Fracc. Haciendas de Ags/haciendas.jpg", "Fracc. Haciendas de Ags/haciendas1.jpg", "Fracc. Haciendas de Ags/haciendas2.jpg", "Fracc. Haciendas de Ags/haciendas3.jpg", "Fracc. Haciendas de Ags/haciendas4.jpg", "Fracc. Haciendas de Ags/haciendas5.jpg"],
 
       "tipoTransaction": "EN VENTA",
       "price": "1,500,000 MXN",
       "TipoProperty": "Casa",
       "ground": "90 m²",
-      "construction": " m²",
-      "Entrega": "Inmediata",
+      "construction": "90 m²",
+      "ocupation": "Inmediata",
+      "payment": "Solo contado.",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 5,
@@ -43,7 +46,7 @@
     },
     {
       "id": 3,
-      "title": "Fracc. Casa blanca, Aguascalientes, Ags",
+      "titleName": "Fracc. Casa blanca, Aguascalientes, Ags",
       "images": ["Fracc.CasaBlanca/CasaB.jpg", "Fracc.CasaBlanca/CasaB1.jpg", "Fracc.CasaBlanca/CasaB2.jpg", "Fracc.CasaBlanca/CasaB3.jpg", "Fracc.CasaBlanca/CasaB4.jpg", "Fracc.CasaBlanca/CasaB5.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -51,7 +54,8 @@
       "TipoProperty": "Casa",
       "ground": "m²",
       "construction": " m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
+      "payment": "Solo contado.",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 2,
@@ -65,7 +69,7 @@
 
     {
       "id": 4,
-      "title": "Rancho las borregas, Aguascalientes",
+      "titleName": "Rancho las borregas, Aguascalientes",
       "images": ["RanchoLasBorregas/RanchoBorregas.jpg", "RanchoLasBorregas/RanchoBorregas1.jpg", "RanchoLasBorregas/RanchoBorregas2.jpg", "RanchoLasBorregas/RanchoBorregas3.jpg", "RanchoLasBorregas/RanchoBorregas4.jpg", "RanchoLasBorregas/RanchoBorregas5.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -73,7 +77,7 @@
       "TipoProperty": "Rancho",
       "ground": "172,479 m² (más de 17 hectáreas)",
       "construction": "689.82 m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 4,
@@ -86,7 +90,7 @@
     },
     {
       "id": 5,
-      "title": "Calle Gral. Emiliano Zapata, barrio de Guadalupe",
+      "titleName": "Calle Gral. Emiliano Zapata, barrio de Guadalupe",
       "images": ["EdificioZapata/EdificioZapata.jpg", "EdificioZapata/EdificioZapata2.jpg", "EdificioZapata/EdificioZapata3.jpg", "EdificioZapata/EdificioZapata6.jpg", "EdificioZapata/EdificioZapata7.jpg", "EdificioZapata/EdificioZapata14.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -94,7 +98,7 @@
       "TipoProperty": "Edificio",
       "ground": "80 m²",
       "construction": "200 m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 7,
@@ -107,7 +111,7 @@
     },
     {
       "id": 6,
-      "title": "Fracc. Lomas del chapulin, Ags",
+      "titleName": "Fracc. Lomas del chapulin, Ags",
       "images": ["LomasDelChapulin/LomasDelChapulin.jpg", "LomasDelChapulin/LomasDelChapulin1.jpg", "LomasDelChapulin/LomasDelChapulin2.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -115,7 +119,7 @@
       "TipoProperty": "Departamento",
       "ground": "57.85 m²",
       "construction": "57.85 m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 2,
@@ -128,7 +132,7 @@
     },
     {
       "id": 7,
-      "title": "Fracc. El Dorado, 1ra Secc, Aguascalientes",
+      "titleName": "Fracc. El Dorado, 1ra Secc, Aguascalientes",
       "images": ["ConsultDorado/ConsulDorado.jpg", "ConsultDorado/ConsulDorado1.jpg", "ConsultDorado/ConsulDorado2.jpg", "ConsultDorado/ConsulDorado3.jpg", "ConsultDorado/ConsulDorado4.jpg"],
 
       "tipoTransaction": "EN RENTA",
@@ -136,7 +140,7 @@
       "TipoProperty": "Casa",
       "ground": "160 m² (8 x 20 m)",
       "construction": "105 m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 4,
@@ -149,7 +153,7 @@
     },
     {
       "id": 8,
-      "title": "Cañada Honda, Aguascalientes",
+      "titleName": "Cañada Honda, Aguascalientes",
       "images": ["CanadaHonda/CanadaHonda.jpg", "CanadaHonda/CanadaHonda1.jpg", "CanadaHonda/CanadaHonda2.jpg", "CanadaHonda/CanadaHonda3.jpg", "CanadaHonda/CanadaHonda4.jpg", "CanadaHonda/CanadaHonda5.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -157,7 +161,7 @@
       "TipoProperty": "Terreno",
       "ground": "Lote 1: 112.98 m² y Lote 2: 107.20 m²",
       "construction": "0 m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "",
 
       "recamaras": 0,
@@ -170,7 +174,7 @@
     },
     {
       "id": 9,
-      "title": "Av. Barlovento, Aguascalientes",
+      "titleName": "Av. Barlovento, Aguascalientes",
       "images": ["Barlovento/Barlovento.jpg", "Barlovento/Barlovento1.jpg", "Barlovento/Barlovento2.jpg", "Barlovento/Barlovento3.jpg", "Barlovento/Barlovento4.jpg", "Barlovento/Barlovento5.jpg"],
 
       "tipoTransaction": "EN VENTA",
@@ -178,7 +182,7 @@
       "TipoProperty": "Casa",
       "ground": " m²",
       "construction": " m²",
-      "Entrega": "Inmediata",
+      "ocupation": "Inmediata",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 4,

@@ -97,3 +97,231 @@ body {
       }
     
   }
+
+
+
+
+
+
+  /***************************** ABOUT US ************************************/
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hero {
+  position: relative;
+  min-height: 90vh;
+  width: 100%;
+  background-image: url("../Material/aboutUs.jpg"); /* aquí va tu imagen */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Capa oscura encima de la imagen */
+.hero_overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+/* Contenido centrado */
+.hero_content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+/* Texto */
+.hero_content h1 {
+  font-size: 46px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+/* Flecha */
+.hero_arrow {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Hover opcional */
+.hero_arrow:hover {
+  background-color: #fff;
+  color: #000;
+  transition: 0.3s;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero {
+    height: 320px;
+  }
+
+  .hero_content h1 {
+    font-size: 20px;
+  }
+}
+
+
+
+/* Sección general */
+.about {
+  padding: 30px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+}
+
+/* Contenedor */
+.about .container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Header */
+.about_header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.about_header h2 {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+.about_header p {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Grid de misión y visión */
+.about_grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 80px;
+}
+
+/* Bloques */
+.about_block h1 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.about_block p {
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: left;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .about_grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .about_header h2 {
+    font-size: 26px;
+  }
+
+  .about_block h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .about_block p {
+    text-align: center;
+  }
+}
+
+
+
+
+/* Sección valores */
+.values {
+  background-color: #2b2b2b;
+  color: #fff;
+  padding: 60px 20px;
+}
+
+/* Contenedor */
+.values .container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Título */
+.values_title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+}
+
+/* Grid */
+.values_grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+/* Item */
+.value_item {
+  text-align: center;
+}
+
+/* Ícono */
+.value_icon {
+  font-size: 36px;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+/* Título valor */
+.value_item h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+/* Texto */
+.value_item p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #dcdcdc;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .values_grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .values_grid {
+    grid-template-columns: 1fr;
+  }
+}

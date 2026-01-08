@@ -11,7 +11,9 @@ fetch('JSON/properties.json')
         //title
       const property = properties.find(p => p.id == propertyId);
       if (property) {
-        document.querySelector('.titleName').textContent = property.title;
+        document.querySelector('.titleName').textContent = property.titleName;
+
+        document.querySelector('.subtitle').textContent = property.subtitle;
         
         // Cambiar tipo de transacción
         document.querySelector('.tipoTransaction').textContent = property.tipoTransaction;
@@ -29,7 +31,10 @@ fetch('JSON/properties.json')
         document.querySelector('.construction').textContent = property.construction;
 
         // Cambiar Entrega
-        document.querySelector('.Entrega').textContent = property.Entrega;
+        document.querySelector('.ocupation').textContent = property.ocupation;
+
+        // Cambiar Entrega
+        document.querySelector('.payment').textContent = property.payment;
 
         // Cambiar servicios
         document.querySelector('.servicios').textContent = property.servicios;
