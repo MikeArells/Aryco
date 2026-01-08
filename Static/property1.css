@@ -249,6 +249,32 @@ textarea {
   background-color: #1ebe57;
 }
 
+
+/*--------------- FOOTER ---------------*/
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  footer {
+    position: relative;
+  }
+
+  .footer-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap; /* evita que salte de línea */
+  }
+
+
 @media screen and (max-width: 767px) {
   .grid-container {
   display: grid;
