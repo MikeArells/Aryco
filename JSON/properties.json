@@ -24,25 +24,25 @@
     },
     {
       "id": 2,
-      "titleName": "Fracc. Haciendas de Aguascalientes, Aguascalientes",
-      "images": ["Fracc. Haciendas de Ags/haciendas.jpg", "Fracc. Haciendas de Ags/haciendas1.jpg", "Fracc. Haciendas de Ags/haciendas2.jpg", "Fracc. Haciendas de Ags/haciendas3.jpg", "Fracc. Haciendas de Ags/haciendas4.jpg", "Fracc. Haciendas de Ags/haciendas5.jpg"],
+      "titleName": "Fracc. Hacienda San Marcos, Aguascalientes",
+      "images": ["FraccHaciendaSanMarcos/haciendasm.jpg", "FraccHaciendaSanMarcos/haciendasm2.jpg", "FraccHaciendaSanMarcos/haciendasm4.jpg", "FraccHaciendaSanMarcos/haciendasm5.jpg", "FraccHaciendaSanMarcos/haciendasm6.jpg", "FraccHaciendaSanMarcos/haciendasm7.jpg"],
 
       "tipoTransaction": "EN VENTA",
-      "price": "1,500,000 MXN",
+      "price": "1,100,000 MXN",
       "TipoProperty": "Casa",
       "ground": "90 m²",
-      "construction": "90 m²",
+      "construction": "61.4 m²",
       "ocupation": "Inmediata",
-      "payment": "Solo contado.",
+      "payment": "Contado y crédito Fovissste.",
       "servicios": "Agua · Drenaje · Luz",
 
-      "recamaras": 5,
-      "banos": 2,
+      "recamaras": 3,
+      "banos": 1,
       "carros": 1,
 
-      "description": "📍 Ubicación: Haciendas de Aguascalientes<br>📐 Terreno: 90 m²<br>🚗 Cochera: Para 1 auto<br>💰 Precio de contado: $1,500,000<br>📈 Valor de avalúo: $2,200,000<br><br>Distribución:<br>🔹 Planta baja:<br>1 recámara<br>1 baño completo<br><br>🔹 Planta alta:<br>4 recámaras (3 con clóset)<br>1 baño completo<br>Balcón amplio<br><br>✅ Ideal para familias grandes o como inversión<br>✅ Zona tranquila y bien conectada<br>✅ ¡$700,000 por debajo del avalúo!<br>📞 Contáctame para más información o agendar tu visita.<br>📲 ¡No dejes pasar esta oportunidad!",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14808.90773594804!2d-102.26811483367679!3d21.887335383536104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429f1e366610a1f%3A0xf2a5e9844446115c!2sHacienda%20Cotorina%20114%2C%20Haciendas%20de%20Aguascalientes%2C%2020196%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses!2smx!4v1763239134338!5m2!1ses!2smx",
-      "video": "https://www.tiktok.com/@mikearells/video/7567430472599457044"
+      "description": "🏡 ¡Casa en Venta en Hacienda San Marcos! Excelente opción atrás <br>de Nissan 1 – Aguascalientes, Ags.<br><br>Descubre esta acogedora casa ubicada en una privada tranquila y segura, ideal para familias o quienes buscan iniciar su patrimonio en una zona con gran crecimiento y accesibilidad.<br><br>📐 Distribución y características<br>🛏 3 recámaras con espacio para clóset y excelente iluminación natural<br>🚿 1 baño completo<br>🍽 Cocina funcional, lista para equipar a tu gusto<br>🧺 Patio de lavado<br>🛋 Área amplia para sala con buena ventilación<br>🚗 Cochera para 1 auto dentro de la propiedad<br>🚘 Además, al estar dentro de una privada, puedes estacionar un segundo auto enfrente de la casa<br><br>⚡ Equipamiento<br>🔥 Boíler instalado y funcionando<br>❗ No cuenta con tinaco ni cisterna, lo cual te permite instalar ambos con la capacidad que prefieras<br><br>⭐ Por qué esta casa es una gran oportunidad<br>Ubicación estratégica cerca de Nissan 1, parques, comercios y vialidades principales.<br>Privada tranquila, ideal para vivir con mayor seguridad<br>Espacios bien iluminados y listos para personalizar<br>Excelente opción para quienes buscan un hogar práctico, económico y funcional",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3704.3200587493307!2d-102.27026632526446!3d21.80656136061146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ed68c307494b%3A0xf8ed642bd0e035a!2sAv.%20Hacienda%20Santoral%20169%2C%20Hacienda%20San%20Marcos%2C%2020298%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1768079610127!5m2!1ses-419!2smx",
+      "video": "https://www.tiktok.com/@mikearells/video/7593823659584736520"
     },
     {
       "id": 3,

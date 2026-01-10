@@ -111,6 +111,21 @@
       
     </div>
 
+  <!------------- MAPA DINAMICO --------------->
+<div id="map"></div>
+
+  <script>
+  function initMap() {
+    const map = new google.maps.Map(document.getElementById("map"), {
+      center: { lat: 47.9253, lng: -97.0329 },
+      zoom: 13,
+    });
+  }
+  </script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=TU_API_KEY&callback=initMap"></script>
+
+
     
   <!------ Properties -------->
   <div id="properties-list"></div>
@@ -145,14 +160,14 @@
 
       <div class="col"> 
         <div class="card shadow-sm"> 
-          <a href="property1.html?id=2"><img src=" Material/Fracc. Haciendas de Ags/haciendas.jpg" alt="Casalux" class="propiedad2"></a>
+          <a href="property1.html?id=2"><img src="Material/FraccHaciendaSanMarcos/haciendasm.jpg" alt="Casalux" class="propiedad2"></a>
           <div class="card-body"> 
             <div class="d-flex justify-content-between align-items-center px-3 pt-2">
-              <p> 5 habitaciones · 2 baños 
+              <p> 3 habitaciones · 1 baños 
               <div class="badge bg-success text-white fs-7 px3 py-2">VENTA</div>
             </div>
-            <p class="card-text "> Fracc. Haciendas de Ags, Aguascalientes, Ags.
-              <br> $1,500,000 
+            <p class="card-text "> Fracc. San Marcos, Aguascalientes, Ags.
+              <br> $1,100,000 
             </p> 
             <div class="d-flex justify-content-between align-items-center"> 
               <div class="btn-group"> 
