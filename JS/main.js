@@ -55,9 +55,7 @@ fetch('JSON/properties.json')
         // Insertar mapa dinámicamente
           const mapContainer = document.querySelector('.map-container');
           mapContainer.innerHTML = `
-            <iframe src="${property.map}" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          `;
-
+            <iframe src="${property.map}" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`;
 
           // Insertar video TikTok embebido
         const videoContainer = document.querySelector('.video-container');
