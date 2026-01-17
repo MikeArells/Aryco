@@ -57,6 +57,16 @@ body {
     padding-right: 50px;
   }
 
+  .geocoder {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    width: 90%;
+    max-width: 400px;
+  }
+
   /* Marcadores con precio */
   /* .price-marker {
     background: #5b5bf7;

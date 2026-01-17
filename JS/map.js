@@ -20,3 +20,13 @@ map.on('load', () => {
 });
 
 
+// Geocoder (buscador)
+  // 🔍 Barra de búsqueda
+const geocoder = new MapboxGeocoder({
+  accessToken: mapboxgl.accessToken,
+  mapboxgl: mapboxgl,
+  marker: false, // no poner marcador automático
+  placeholder: 'Buscar dirección o zona'
+});
+
+  
