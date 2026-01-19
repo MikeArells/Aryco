@@ -37,6 +37,74 @@ body {
   }
 
   
+
+  /**************** HAMBURGER ******************/
+ /* header {
+    justify-content: flex-start !important;
+    gap: 15px;
+  } */
+
+.hamburger {
+  display: flex;
+  flex-direction: column; /* direccion de la colocacion de las rayas del hamburger*/
+  gap: 5px; /* separacion de cada raya del hamburger*/
+  cursor: pointer;  /*cambia de flecha a dedo en hover sobre las rayas*/
+  /* align-items: center; */
+  margin-right: 300px;
+  
+}
+
+/* header > .logo {
+    margin: 0;
+  } */
+
+.hamburger span {
+  width: 25px;  /*largo de cada raya*/
+  height: 3px;
+  background: white;
+}
+
+/* WRAPPER */
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* justify-content: space-between; */
+}
+
+/* MÓVIL */
+@media (max-width: 1200px) {
+
+  .nav-wrapper {
+    position: relative;
+    top: 100%;
+    left: 0;
+    /* width:50%; */
+    background: #2d6326;
+    flex-direction: column;
+    display: none;
+    padding: 10px 0;
+    /* z-index: 999; */
+  }
+
+  .nav-wrapper.active {
+    display: flex;
+  }
+
+  /* .nav-left,
+  .nav-right {
+    flex-direction: column;
+    align-items: center;
+  } */
+
+  /* .nav-buttons {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  } */
+
+}
   
   /*-----------------------------HERO-----------------*/
   
@@ -45,7 +113,7 @@ body {
     object-fit: cover;
   }
   
-  /*--------------- MAPA INTERACTIVO EN HOME -------------------*/
+  /*----------- MAPA INTERACTIVO EN HOME ---------------*/
   .map-section {
     position: relative;
     padding: 30px;
@@ -67,20 +135,6 @@ body {
     max-width: 400px;
   }
 
-  /* Marcadores con precio */
-  /* .price-marker {
-    background: #5b5bf7;
-    color: white;
-    padding: 6px 10px;
-    border-radius: 20px;
-    font-size: 13px;
-    font-weight: bold;
-    cursor: pointer;
-    box-shadow: 0 2px 6px rgba(0,0,0,.25);
-    white-space: nowrap;
-  } */
-
-
   /*----------------- PROPIEDADES ----------------*/
 
   .card img {
@@ -88,16 +142,84 @@ body {
     height: 250px; /* Ajusta la altura deseada */
     object-fit: cover; /* Recorta la imagen manteniendo proporción */
   }
+
+  /*--------- CAJA DE CONTACTO ----------*/
+
+.contact-form {
+  max-width: 400px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+}
+
+.contact-form h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.form-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+textarea {
+  height: 80px;
+  resize: none;
+  margin-bottom: 15px;
+}
+
+.btn-email {
+  width: 100%;
+  background-color: #499bf2;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.btn-whatsapp {
+  width: 100%;
+  background-color: #25d366;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-email:hover {
+  background-color: #2e00e6;
+}
+
+.btn-whatsapp:hover {
+  background-color: #1ebe57;
+}
   
   
   /*--------------- FOOTER ---------------*/
 
-  html, body {
+  /* html, body {
     height: 100%;
     margin: 0;
     display: flex;
     flex-direction: column;
-  }
+  } */
   
   main {
     flex: 1;
@@ -112,6 +234,12 @@ body {
     left: 50%;
     transform: translateX(-50%);
     white-space: nowrap; /* evita que salte de línea */
+  }
+
+  @media screen and (max-width: 768px) {
+    #designedAstruck{
+      display: none;   /* Elimina un componente */ 
+    }
   }
 
   @media screen and (min-width: 1300px){
@@ -133,10 +261,6 @@ body {
   }
 
 
-
-
-
-
   /***************************** ABOUT US ************************************/
 
 html {
@@ -145,6 +269,7 @@ html {
 
 .hero {
   position: relative;
+  height: 100vh;
   min-height: 90vh;
   width: 100%;
   background-image: url("../Material/aboutUs.jpg"); /* aquí va tu imagen */
@@ -179,6 +304,9 @@ html {
   letter-spacing: 2px;
   font-weight: 700;
   margin-bottom: 25px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Flecha */
@@ -207,14 +335,14 @@ html {
     height: 320px;
   }
 
-  .hero_content h1 {
+  /* .hero_content h1 {
     font-size: 20px;
-  }
+  } */
 }
 
 
 
-/* Sección general */
+/*------ Sección general ------*/
 .about {
   padding: 30px 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -247,7 +375,7 @@ html {
   line-height: 1.6;
 }
 
-/* Grid de misión y visión */
+/*----- Grid de misión y visión ------*/
 .about_grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -291,7 +419,7 @@ html {
 
 
 
-/* Sección valores */
+/*------- Sección valores -------*/
 .values {
   background-color: #2b2b2b;
   color: #fff;

@@ -25,29 +25,44 @@
     <!---------- NAV ------------->
   
   <section id="title" class="gradient-background">
-    <div class="container"> 
-    
-      <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 "> 
-        
-        <ul class="nav col-6 col-md-auto mb-2 justify-content-center mb-md-0"> 
-          <li><a href="comprar.html" class="nav-link px-5 text-white" >COMPRAR</a></li> 
-          <li><a href="rentar.html" class="nav-link px-5 text-white">RENTAR</a></li> 
-          <li><a href="vender.html" class="nav-link px-5 text-white">VENDER</a></li> 
-        </ul> 
-
-        <div class="logo">
-          <a href="index.html"><img src=" Material/Arellano$cia.jpg" alt="Logo" class="logo" href="index.html"></a>
-        </div>
-
-        <ul class="nav col-6 col-md-auto mb-2 justify-content-center mb-md-0"> 
-            <li><a href="nosotros.html" class="nav-link px-5 text-white">NOSOTROS</a></li> 
-        </ul> 
-        <div class="col-md-3 text-end"> 
-          <button type="button" class="btn btn-outline-primary me-4" disabled>Cotizar seguro</button> 
-          <button type="button" class="btn btn-primary" disabled>Registrarse</button> 
-        </div> 
+      <div class="container"> 
       
-        </header> 
+        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 "> 
+          
+            <!-- HAMBURGER (solo móvil) -->
+          <div class="hamburger d-md-none" id="hamburger">
+            <span></span>  <!-- cada raya del hamburger -->
+            <span></span>
+            <span></span>
+          </div>
+
+          
+
+        <!-- MENÚ COMPLETO -->
+        <div class="nav-wrapper" id="nav-wrapper">
+
+          <ul class="nav col-6 col-md-auto mb-2 justify-content-center mb-md-0"> 
+            <li><a href="comprar.html" class="nav-link px-5 text-white" >COMPRAR</a></li> 
+            <li><a href="rentar.html" class="nav-link px-5 text-white">RENTAR</a></li> 
+            <li><a href="vender.html" class="nav-link px-5 text-white">VENDER</a></li> 
+          </ul> 
+
+          <div class="logo">
+            <a href="index.html"><img src=" Material/Arellano$cia.jpg" alt="Logo" class="logo" href="index.html"></a>
+          </div>
+
+          <ul class="nav col-6 col-md-auto mb-2 justify-content-center mb-md-0"> 
+              <li><a href="nosotros.html" class="nav-link px-5 text-white">NOSOTROS</a></li> 
+          </ul> 
+
+          <div class="col-md-3 text-end"> 
+            <button type="button" class="btn btn-outline-primary me-4" disabled>Cotizar seguro</button> 
+            <button type="button" class="btn btn-primary" disabled>Registrarse</button> 
+          </div> 
+
+        </div>
+        
+      </header> 
     </div>
   </section>
 
@@ -94,12 +109,13 @@
 <section id="title" class="gradient-background">
   <div class="container"> 
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 mt-4 border-top"> 
+      
       <div class=" d-flex align-items-center"> 
         <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1" aria-label="Bootstrap"> 
           <svg class="bi" width="30" height="24" aria-hidden="true"><use xlink:href="#bootstrap"></use></svg> 
         </a> 
         <span class="mb-3 mb-md-0 text-body-primary text-white">© 2025 Aryco, Inc</span> 
-        <span class="footer-center text-white">Designed by: Astruck Labs</span> 
+        <span id="designedAstruck" class="footer-center text-white">Designed by: Astruck Labs</span> 
       </div> 
 
       <ul class="nav col-md-4 justify-content-end list-unstyled d-flex"> 
@@ -127,4 +143,5 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 
   </body>
+  <script src="JS/main.js"></script>
 </html>
