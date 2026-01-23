@@ -174,23 +174,46 @@
     },
     {
       "id": 9,
-      "titleName": "Av. Barlovento, Aguascalientes",
-      "images": ["Barlovento/Barlovento.jpg", "Barlovento/Barlovento1.jpg", "Barlovento/Barlovento2.jpg", "Barlovento/Barlovento3.jpg", "Barlovento/Barlovento4.jpg", "Barlovento/Barlovento5.jpg"],
+      "titleName": "Fracc. Morelos 1, Aguascalientes",
+      "images": ["Morelos1/MorelosI.jpg","Morelos1/MorelosI1.jpg","Morelos1/MorelosI2.jpg","Morelos1/MorelosI3.jpg","Morelos1/MorelosI4.jpg","Morelos1/MorelosI5.jpg"],
 
       "tipoTransaction": "EN VENTA",
-      "price": "$14,000 MXN",
+      "price": "$1,900,000 MXN",
       "TipoProperty": "Casa",
-      "ground": " m²",
-      "construction": " m²",
+      "ground": "90 m²",
+      "construction": "150 m²",
       "ocupation": "Inmediata",
+      "payment": "Contado y créditos.",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 2,
+      "banos": 1,
+      "carros": 4,
+
+      "description": "¡Casa Productiva en Venta en Morelos 1, Aguascalientes! a una cuadra de Sensata. <br><br>¿Buscas una propiedad que te genere ingresos y al mismo tiempo te brinde comodidad? Esta es tu oportunidad. Ubicada a solo una cuadra de Sensata, en una zona estratégica con gran flujo y conectividad.<br><br>✅ Características principales<br><br>✅Terreno: 90 m² (6 x 15)<br>✅Construcción: 150 m²<br>✅Concepto productivo:<br>Local comercial o bodega en planta baja, perfecto para negocio propio o renta.<br><br>✅Departamento funcional con:<br>🛏 2 recámaras<br>🚿 1 baño completo<br>🍽 Cocina y área de convivencia<br><br>⭐ Ventajas<br>✅Excelente ubicación al sur, cerca de avenidas principales y zona industrial.<br>✅Ideal para inversionistas o emprendedores que buscan espacio para negocio y vivienda en una sola propiedad.<br>✅Gran potencial para rentas comerciales y habitacionales..",
+      "map": "",
+      "video": "https://www.tiktok.com/@mikearells/video/7592020698906823957"
+    },
+    {
+      "id": 10,
+      "titleName": "Fracc. Pulgas Pandas, Aguascalientes",
+      "images": ["PulgasPandas/pulgaspandas.jpg","PulgasPandas/pulgaspandas1.jpg","PulgasPandas/pulgaspandas2.jpg","PulgasPandas/pulgaspandas3.jpg","PulgasPandas/pulgaspandas4.jpg","PulgasPandas/pulgaspandas5.jpg"],
+
+      "tipoTransaction": "EN VENTA",
+      "price": "$8,500,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": "280 m²",
+      "construction": "540 m²",
+      "ocupation": "Inmediata",
+      "payment": "Contado y créditos.",
       "servicios": "Agua · Drenaje · Luz",
 
       "recamaras": 4,
-      "banos": 3.5,
+      "banos": 4.5,
       "carros": 2,
 
-      "description": "🏡✨ Casa en Renta en Barlovento✨🏡<br><br>Descubre tu nuevo hogar en una de las zonas más tranquilas y exclusivas de la ciudad.<br><br>✅ 2 plantas<br>✅ 4 cuartos (todos con baño propio)<br>✅ 3 recámaras principales<br>✅ 1 cuarto adaptado como sala de TV<br>✅ Baño de visitas<br>✅ Espacios amplios y funcionales<br><br>💰 Renta: $14,000 mensuales<br><br>Ideal para familias que buscan comodidad, privacidad y un entorno seguro.<br><br>📍 Ubicada cerca de Santa Mónica, con excelente conectividad y cerca de servicios esenciales.",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7022.78481743203!2d-102.32013974819694!3d21.833750050268037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec5cd1109425%3A0xdcb439c2d65164dd!2sBARLOVENTO!5e0!3m2!1ses-419!2smx!4v1764737195681!5m2!1ses-419!2smx",
+      "description": "Hermosa residencia en VENTA en Pulgas Pandas Sur. ¡Gran oportunidad! <br><br>Si buscas espacio, confort y una ubicación premium, esta casa es perfecta para ti. Diseñada para brindar amplitud, privacidad y lujo en cada rincón.<br><br>📐 Características principales<br>✅Terreno: 280 m²<br>✅Construcción: 540 m²<br><br>🔽 Planta Baja<br>🛏 1 recámara amplia con baño completo, ideal para visitas o recámara principal en planta baja.<br>🚻 Medio baño para visitas<br>🛋 Sala muy iluminada<br>🍽 Comedor espacioso<br>👩‍🍳 Cocina con excelente distribución<br>🧺 Cuarto de lavado independiente<br><br>🔼 Planta Alta<br>🛏 3 recámaras muy amplias, cada una con:<br>✅Baño completo<br>✅Vestidor<br>✅Minisplit<br><br>📺 Sala de TV perfecta para el descanso familiar.<br><br>💎 ¿Por qué esta casa es ideal para ti?<br>✅Ubicación exclusiva en Pulgas Pandas Sur<br>✅Espacios enormes en recámaras y áreas sociales<br>✅Lista para habitar y diseñada para quienes buscan comodidad y lujo",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7403.0190933822805!2d-102.30578740973937!3d21.91495432345552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429eeff8a1b8e49%3A0x4ab132419b9945f3!2sPulgas%20Pandas%2C%2020138%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1769148025424!5m2!1ses-419!2smx",
       "video": ""
     }
   ]
