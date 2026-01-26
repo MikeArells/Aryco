@@ -215,5 +215,25 @@
       "description": "Hermosa residencia en VENTA en Pulgas Pandas Sur. ¡Gran oportunidad! <br><br>Si buscas espacio, confort y una ubicación premium, esta casa es perfecta para ti. Diseñada para brindar amplitud, privacidad y lujo en cada rincón.<br><br>📐 Características principales<br>✅Terreno: 280 m²<br>✅Construcción: 540 m²<br><br>🔽 Planta Baja<br>🛏 1 recámara amplia con baño completo, ideal para visitas o recámara principal en planta baja.<br>🚻 Medio baño para visitas<br>🛋 Sala muy iluminada<br>🍽 Comedor espacioso<br>👩‍🍳 Cocina con excelente distribución<br>🧺 Cuarto de lavado independiente<br><br>🔼 Planta Alta<br>🛏 3 recámaras muy amplias, cada una con:<br>✅Baño completo<br>✅Vestidor<br>✅Minisplit<br><br>📺 Sala de TV perfecta para el descanso familiar.<br><br>💎 ¿Por qué esta casa es ideal para ti?<br>✅Ubicación exclusiva en Pulgas Pandas Sur<br>✅Espacios enormes en recámaras y áreas sociales<br>✅Lista para habitar y diseñada para quienes buscan comodidad y lujo",
       "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7403.0190933822805!2d-102.30578740973937!3d21.91495432345552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429eeff8a1b8e49%3A0x4ab132419b9945f3!2sPulgas%20Pandas%2C%2020138%20Aguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1769148025424!5m2!1ses-419!2smx",
       "video": ""
+    },{
+      "id": 11,
+      "titleName": "Fracc. Arroyo el Molino, Aguascalientes",
+      "images": ["CasaArroyoMolino/ArroyoMolino.jpg","CasaArroyoMolino/ArroyoMolino1.jpg","CasaArroyoMolino/ArroyoMolino2.jpg","CasaArroyoMolino/ArroyoMolino3.jpg","CasaArroyoMolino/ArroyoMolino4.jpg","CasaArroyoMolino/ArroyoMolino5.jpg"],
+
+      "tipoTransaction": "EN RENTA",
+      "price": "$25,000 MXN",
+      "TipoProperty": "Casa",
+      "ground": " m²",
+      "construction": " m²",
+      "ocupation": "Inmediata",
+      "servicios": "Agua · Drenaje · Luz",
+
+      "recamaras": 4,
+      "banos": 2.5,
+      "carros": 2,
+
+      "description": "🏡 Casa en venta en Real del Molino – 150 m² de construcción<br><br>Hermosa casa de dos niveles con excelente distribución y amplios espacios, ideal para familias que buscan comodidad y funcionalidad.<br><br>✨ Planta alta:<br>• 3 recámaras<br>• Recámara principal con baño privado, tina y vestidor<br>• Sala de televisión<br>• Baño completo compartido para recámaras secundarias<br><br>✨ Planta baja:<br>• Sala y comedor muy amplios<br>• Cocina funcional<br>• Recibidor<br>• 4ª recámara o estudio<br>• Medio baño<br>• Cuarto de lavado y área de tendido<br><br>🌿 Exterior:<br>• Jardín con asador<br>• Bodega amplia en la parte trasera<br><br>📍 Ubicada en Real del Molino, excelente zona residencial.Ideal para familias, home office o inversión.<br><br>📩 Agenda tu cita y conócela en persona",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12080.374399280168!2d-102.31666035048205!3d21.936061629869194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ef13ae5e5b7d%3A0xef38c5419f9936e1!2sReal%20del%20Molino!5e0!3m2!1ses-419!2smx!4v1769323341585!5m2!1ses-419!2smx",
+      "video": ""
     }
   ]
